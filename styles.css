@@ -1,0 +1,122 @@
+body {
+    height: 14.75cm;
+    width: 7.15cm;
+    color: #FFFFFF;
+    font-family: 'Hepta Slab';
+}
+
+.background {
+    background-color: #7ADFFF;
+}
+
+div {
+    margin: 5px
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 1.5px 1.5px 0px #6898A8;
+}
+
+h2 {
+    text-align: center;
+    font-size: 36px;
+    text-shadow: 2px 2px 0px #6898A8;
+}
+
+input {
+    background-color: #acdff0;
+    border-color: #ffffff75;
+    height: 10px;
+    width: 20px;
+    font-size: 10px;
+    color: #44646e;
+}
+
+.box {
+    background-color: #6898A8;
+    border-radius: 20px
+}
+
+.weekdays {
+    background-color: #6898A8;
+    font-size: 12px;
+    justify-content: space-evenly;
+    border-color: white;
+    border-radius: 5px;
+    text-align: center;
+    height: 150px
+    
+}
+
+.flex {
+    display: flex;
+    margin: 10px;
+    justify-content: space-evenly;
+    
+}
+
+.day-container {
+    display: flex;
+    margin: 0;
+}
+
+.icon {
+    padding-top: 0px;
+}
+
+.border {
+    border-bottom: solid;
+    border-color: white;
+    margin-left: -7px;
+    margin-right: -7px;
+    padding: 0
+}
+
+.day-cal {
+    margin: 0
+}
+
+.cal-border {
+    border-left: solid;
+    padding: 5px;
+    margin: 0
+}
+
+.center {
+    text-align: center;
+}
+
+.hourly {
+    font-size: 10px;
+    margin: 0;
+}
+
+.hourly-container {
+    border-radius: 10px;
+}
+
+.subtitle {
+    font-size: 14px;
+    text-shadow: 1px 1px 0px #6898A8;
+}
+
+.week {
+    font-size: 12px
+}
+
+.widget {
+    background-color: #6898A8;
+    border-radius: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.edit {
+    padding: 5px;
+
+}
+
+.cloud {
+    position: absolute;
+}
